@@ -1,0 +1,24 @@
+{
+  "name": "cordova-camera-mock",
+  "authors": [
+    "Ben Patterson <benthomaspatterson@gmail.com>"
+  ],
+  "description": "A simple mock for cordova's camera for developing in the browser",
+  "main": "camera.js",
+  "moduleType": [],
+  "keywords": [
+    "cordova",
+    "camera",
+    "mock",
+    "web"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/OrangeLibrary/cordova-camera-mock",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
