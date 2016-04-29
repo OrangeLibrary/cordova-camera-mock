@@ -7,7 +7,8 @@ camera plugin treats the a photo
 
 Tested in the ionic
 include something like  
- `<script src="camera.js"></script>`
+ `<script src="lib/cordova-camera-mock/camera.js"></script>`
+ 
 in your index.html file and your your cordova camera should be working in the
 browser
 
